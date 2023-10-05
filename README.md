@@ -5,12 +5,12 @@ implementation of a "To Do" list
 
 features:
 * add new tasks
-* mark tasks as completed
+* mark completed tasks
 * remove tasks
-* alert the user when trying to add an empty task
+* alert the user when there is an attempt to add an empty task
 
 what I learned:
-* how to save the data on the browser (existing the page don't remove the tasks)
+* how to save the data in the browser (exiting the page does not remove the tasks)
 * how to toggle between classes
 * manipulate the DOM using JavaScript
   
